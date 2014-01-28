@@ -1,6 +1,8 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-import sys, os, re
+import sys
+import os
+import re
 import scipy
 import numpy as np
 
